@@ -1,0 +1,1 @@
+/workspaces/AOSFall2024/operatingsystems/rustpractice/hello_world/number_analyzer/target/debug/number_analyzer: /workspaces/AOSFall2024/operatingsystems/rustpractice/hello_world/number_analyzer/src/main.rs

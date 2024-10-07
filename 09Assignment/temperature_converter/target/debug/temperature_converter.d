@@ -1,0 +1,1 @@
+/workspaces/AOSFall2024/operatingsystems/rustpractice/hello_world/temperature_converter/target/debug/temperature_converter: /workspaces/AOSFall2024/operatingsystems/rustpractice/hello_world/temperature_converter/src/main.rs
